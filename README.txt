@@ -1,3 +1,8 @@
+Use this Android app with my CompassColor project to control the lights via Bluetooth
+https://github.com/sud0nick/CompassColor
+
+Original README
+--
 These are the source files for an Android App called Arduino Color.  
 For more information on starting to develop Android apps, visit http://developer.android.com/training/index.html
 
